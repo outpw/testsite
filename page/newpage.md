@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Stuff
 ---
 
 # What's cooler than being cool?
