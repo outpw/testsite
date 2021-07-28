@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-# Hey big spender!
+### Welcome everyone to my spiffy site!
