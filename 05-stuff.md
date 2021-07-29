@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stuff
+nav_order: 5
 ---
 
 ## Come on down and learn about some stuff.
